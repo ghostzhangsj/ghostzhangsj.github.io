@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ghost Zhang</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-05-30T11:35:47.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ghost Zhang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/hello-world/"/>
+    <id>http://yoursite.com/2016/hello-world/</id>
+    <published>2016-05-30T11:35:47.000Z</published>
+    <updated>2016-05-30T11:35:47.000Z</updated>
+    
+    <content type="html">&lt;p&gt;我是高斯特&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Yes, I’m Ghost Zhang!&lt;/p&gt;
+&lt;p&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;br&gt;哈哈哈&lt;/p&gt;
+&lt;p&gt;!!!!!!&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我是高斯特&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
